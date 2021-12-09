@@ -23,13 +23,13 @@ coverage
 *.lcov
 
 # nyc test coverage
-.nyc_output
+.nyc-output
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
 # Bower dependency directory (https://bower.io/)
-bower_components
+bower-components
 
 # node-waf configuration
 .lock-wscript
@@ -38,8 +38,8 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
-jspm_packages/
+node-modules/
+jspm-packages/
 
 # TypeScript v1 declaration files
 typings/
@@ -54,13 +54,13 @@ typings/
 .eslintcache
 
 # Microbundle cache
-.rpt2_cache/
-.rts2_cache_cjs/
-.rts2_cache_es/
-.rts2_cache_umd/
+.rpt2-cache/
+.rts2-cache-cjs/
+.rts2-cache-es/
+.rts2-cache-umd/
 
 # Optional REPL history
-.node_repl_history
+.node-repl-history
 
 # Output of 'npm pack'
 *.tgz

@@ -11,8 +11,8 @@
 	margin: 0 auto;
 }
 
-/* main_content */
-.main_content {
+/* main-content */
+.main-content {
 	background-color: white;
 	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 	padding: 105px 90px;
@@ -30,7 +30,7 @@
 	margin-bottom: 51px;
 }
 
-.sidebar_title {
+.sidebar-title {
 	color: #ffffff;
 	font-style: normal;
 	font-weight: bold;
@@ -39,8 +39,8 @@
 }
 
 .contacts,
-.tech_skills,
-.soft_skills {
+.tech-skills,
+.soft-skills {
 	margin-left: 40px;
 }
 
@@ -48,7 +48,7 @@
 	margin-bottom: 50px;
 }
 
-.skills_list {
+.skills-list {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
@@ -58,7 +58,7 @@
 	margin-left: 15px;
 }
 
-.list_point {
+.list-point {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -66,7 +66,7 @@
 	color: #fb6d3a;
 }
 
-.skills_item {
+.skills-item {
 	color: #ffffff;
 	font-style: normal;
 	font-weight: normal;
@@ -74,7 +74,7 @@
 	line-height: 24px;
 }
 
-.contact_type {
+.contact-type {
 	color: #ffffff;
 	font-style: normal;
 	font-weight: bold;
@@ -82,7 +82,7 @@
 	line-height: 24px;
 }
 
-.contack_link {
+.contack-link {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
@@ -97,7 +97,7 @@
 	margin-bottom: 40px;
 }
 
-.about_position {
+.about-position {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -106,7 +106,7 @@
 	margin-bottom: 20px;
 }
 
-.about_name {
+.about-name {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 45px;
@@ -115,7 +115,7 @@
 	margin-bottom: 25px;
 }
 
-.about_description {
+.about-description {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
@@ -138,7 +138,7 @@
 	margin-bottom: 10px;
 }
 
-.project_point {
+.project-point {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -146,8 +146,8 @@
 	color: #000000;
 }
 
-.project_links,
-.project_techs {
+.project-links,
+.project-techs {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
@@ -155,7 +155,7 @@
 	color: #595959;
 }
 
-.project_bracket {
+.project-bracket {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -163,12 +163,12 @@
 	color: #000000;
 }
 
-.projects_list {
+.projects-list {
 	padding: 0;
 	margin-left: 15px;
 }
 
-.project_links {
+.project-links {
 	margin-left: 10px;
 }
 
@@ -185,7 +185,7 @@
 	margin-bottom: 10px;
 }
 
-.company_nane {
+.company-nane {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
@@ -210,12 +210,14 @@
 	color: #000000;
 }
 
-.work_list {
+.work-list,
+.edu-list {
 	padding: 0px;
 	margin-left: 15px;
 }
 
-.work_list_item {
+.work-list-item,
+.edu-list-item {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
@@ -225,7 +227,7 @@
 
 /* education styles */
 
-.education_position {
+.education-position {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
